@@ -4,9 +4,12 @@ Segue Guideline
 
 Algumas recomendações para o time de engenharia de software atualizar as atividades no contexto do projeto:
 
-1 - Crie um novo branch para cada nova feature ou correção de bug. Isso permite que os desenvolvedores trabalhem em paralelo em diferentes recursos do projeto sem interferir no trabalho de outros membros da equipe.
-2 - Faça commits frequentes e pequenos. Commits pequenos são mais fáceis de revisar e entender, e tornam mais fácil a identificação de erros e a resolução de conflitos.
-3 - Utilize mensagens de commit descritivas e claras. As mensagens de commit devem ser claras o suficiente para que qualquer pessoa possa entender o que foi alterado no código.
+1 - Crie um novo branch para cada nova feature ou correção de bug. Isso permite que os desenvolvedores trabalhem 
+em paralelo em diferentes recursos do projeto sem interferir no trabalho de outros membros da equipe.
+2 - Faça commits frequentes e pequenos. Commits pequenos são mais fáceis de revisar e entender, e tornam mais fácil 
+a identificação de erros e a resolução de conflitos.
+3 - Utilize mensagens de commit descritivas e claras. As mensagens de commit devem ser claras o suficiente para que 
+qualquer pessoa possa entender o que foi alterado no código.
 4 - Faça revisões de código. Antes de fazer um pull request, é importante que outra pessoa revise seu código. Isso ajuda a identificar problemas antes que eles cheguem à branch principal.
 5 - Execute testes automatizados antes de fazer um pull request. Isso ajuda a garantir que as alterações não causem problemas no código existente e reduz a necessidade de correções de última hora.
 6 - Use pull requests para discutir e revisar alterações. Os pull requests permitem que os membros da equipe discutam as alterações propostas antes de elas serem mescladas na branch principal.
