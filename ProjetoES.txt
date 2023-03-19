@@ -1,6 +1,6 @@
 Projetinho vai se desenvolvido aqui.
 
-Segue Guideline
+Segue Guideline:
 
 Algumas recomendações para o time de engenharia de software atualizar as atividades no contexto do projeto:
 
