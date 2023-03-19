@@ -10,9 +10,15 @@ em paralelo em diferentes recursos do projeto sem interferir no trabalho de outr
 a identificação de erros e a resolução de conflitos.
 3 - Utilize mensagens de commit descritivas e claras. As mensagens de commit devem ser claras o suficiente para que 
 qualquer pessoa possa entender o que foi alterado no código.
-4 - Faça revisões de código. Antes de fazer um pull request, é importante que outra pessoa revise seu código. Isso ajuda a identificar problemas antes que eles cheguem à branch principal.
-5 - Execute testes automatizados antes de fazer um pull request. Isso ajuda a garantir que as alterações não causem problemas no código existente e reduz a necessidade de correções de última hora.
-6 - Use pull requests para discutir e revisar alterações. Os pull requests permitem que os membros da equipe discutam as alterações propostas antes de elas serem mescladas na branch principal.
-7 - Utilize ferramentas de integração contínua para automatizar processos de build, testes e deploy. Isso ajuda a garantir que o código seja sempre compilado, testado e implantado corretamente em diferentes ambientes, reduzindo erros e tempo de trabalho.
+4 - Faça revisões de código. Antes de fazer um pull request, é importante que outra pessoa revise seu código. 
+Isso ajuda a identificar problemas antes que eles cheguem à branch principal.
+5 - Execute testes automatizados antes de fazer um pull request. Isso ajuda a garantir que as alterações não causem 
+problemas no código existente e reduz a necessidade de correções de última hora.
+6 - Use pull requests para discutir e revisar alterações. Os pull requests permitem que os membros da equipe discutam 
+as alterações propostas antes de elas serem mescladas na branch principal.
+7 - Utilize ferramentas de integração contínua para automatizar processos de build, testes e deploy. 
+Isso ajuda a garantir que o código seja sempre compilado, testado e implantado corretamente em diferentes ambientes, 
+reduzindo erros e tempo de trabalho.
 
-Com essas práticas recomendadas, o time de engenharia de software pode colaborar de forma mais eficiente e eficaz no projeto de e-commerce de produtos esportivos.
+Com essas práticas recomendadas, o time de engenharia de software pode colaborar de forma mais eficiente e eficaz no 
+projeto de e-commerce de produtos esportivos.
